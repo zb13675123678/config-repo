@@ -13,5 +13,6 @@ eureka:
       #defaultZone: http://eureka1:20001/eureka,http://eureka2:20002/eureka,http://eureka3:20003/eureka
       defaultZone: http://localhost:20000/eureka
  
-test:
-  one: day
+#测试配置中心使用
+test: test1
+
