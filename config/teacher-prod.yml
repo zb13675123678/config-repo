@@ -12,3 +12,6 @@ eureka:
       #集群注册地址
       #defaultZone: http://eureka1:20001/eureka,http://eureka2:20002/eureka,http://eureka3:20003/eureka
       defaultZone: http://localhost:20000/eureka
+ 
+test:
+  one: day
